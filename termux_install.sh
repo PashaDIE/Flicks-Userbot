@@ -34,8 +34,8 @@ clear
 pkg update && pkg upgrade -y
 pkg install clang curl git libcrypt libffi libiconv libjpeg* libjpeg-turbo libwebp libxml2 libxslt make ndk-sysroot openssl postgresql python readline wget zlib -y
 
-git clone https://github.com/Rzky3016/Paradise-Userbot.git
-cd Paradise-Userbot
+git clone https://github.com/ridho17-ind/Flicks-Userbot.git
+cd Flicks-Userbot
 
 pip install --upgrade pip setuptools
 pip install -r requirements.txt
