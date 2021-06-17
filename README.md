@@ -32,9 +32,10 @@ String_Session [Tekan](https://replit.com/@Rzky3016/String-Sesson-Paradise)
 ## <p align="center">DEPLOY Paradise-Userbot</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ridho17-ind/Flicks-Userbot/tree/Flicks-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ridho17-ind/Flicks-Userbot/tree/Paradise-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
+
 </p>
 
 ## Kredit
