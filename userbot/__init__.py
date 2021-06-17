@@ -101,7 +101,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/Rzky3016/Paradise-Userbot.git")
+    "https://github.com/ridho17-ind/Flicks-Userbot.git")
 UPSTREAM_REPO_BRANCH = os.environ.get(
     "UPSTREAM_REPO_BRANCH", "Linux-Userbot")
 
@@ -148,7 +148,7 @@ ANTI_SPAMBOT_SHOUT = sb(os.environ.get("ANTI_SPAMBOT_SHOUT", "False"))
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 
 # untuk perintah .linux
-PARADISE_TEKS_KUSTOM = os.environ.get("PARADISE_TEKS_KUSTOM", None)
+FLICKS_TEKS_KUSTOM = os.environ.get("FLICKS_TEKS_KUSTOM", None)
 
 # Default .alive name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
@@ -419,16 +419,16 @@ with bot:
             else:
                 result = builder.article(
 
-                    "**🗿Paradise-Userbot🗿**",
+                    "**Flicks-Userbot**",
                     text="""**Anda Bisa Membuat Paradise Userbot Anda Sendiri Dengan Cara:** [Tekan Disini](t.me/Nopegoodloking)""",
                     buttons=[
                         [
                             custom.Button.url(
-                                "🗿Repo🗿",
-                                "https://github.com/Rzky3016/Paradise-Userbot"),
+                                "🐲Repo🐲",
+                                "https://github.com/ridho17-ind/Flicks-Userbot"),
                             custom.Button.url(
                                 "Pemilik",
-                                "t.me/Nopegoodloking")],
+                                "t.me/SkyzoSaja")],
                     ],
                     link_preview=False,
                 )
