@@ -1,6 +1,6 @@
 {
-  "name": "Paradise-Userbot",
-  "description": "[Paradise-Userbot] USERBOT TELEGRAM.",
+  "name": "Flicks-Userbot",
+  "description": "[Flicks-Userbot] USERBOT TELEGRAM.",
   "logo": "https://telegra.ph/file/8f6dc8c4536b52ca3271c.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Rzky3016/Paradise-Userbot",
-  "telegram": "https://t.me/Nopegoodloking",
-  "success_url": "https://t.me/Nopegoodloking",
+  "repository": "https://github.com/ridho17-ind/Flicks",
+  "telegram": "https://t.me/SkyzoSaja",
+  "success_url": "https://t.me/SkyzoSaja",
   "stack": "container",
   "env": {
     "API_KEY": {
